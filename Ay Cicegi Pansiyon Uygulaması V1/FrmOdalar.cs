@@ -68,12 +68,12 @@ namespace Ay_Cicegi_Pansiyon_Uygulaması_V1
             //Oda 103
 
             baglanti.Open();
-            SqlCommand komut3 = new SqlCommand("select * from Oda103", baglanti);
-            SqlDataReader oku3 = komut3.ExecuteReader();
+            SqlCommand komut33 = new SqlCommand("select * from Oda103", baglanti);
+            SqlDataReader oku33 = komut33.ExecuteReader();
 
             while (oku3.Read())
             {
-                BtnOda101.Text = oku3["Adi"].ToString() + " " + oku3["Soyadi"].ToString();
+                BtnOda103.Text = oku33["Adi"].ToString() + " " + oku33["Soyadi"].ToString();
 
             }
             baglanti.Close();
