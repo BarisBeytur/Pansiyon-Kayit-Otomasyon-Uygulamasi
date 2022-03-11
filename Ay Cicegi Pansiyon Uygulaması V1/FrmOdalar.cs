@@ -71,7 +71,7 @@ namespace Ay_Cicegi_Pansiyon_Uygulaması_V1
             SqlCommand komut33 = new SqlCommand("select * from Oda103", baglanti);
             SqlDataReader oku33 = komut33.ExecuteReader();
 
-            while (oku3.Read())
+            while (oku33.Read())
             {
                 BtnOda103.Text = oku33["Adi"].ToString() + " " + oku33["Soyadi"].ToString();
 
