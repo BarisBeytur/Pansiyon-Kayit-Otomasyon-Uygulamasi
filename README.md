@@ -1,4 +1,4 @@
-# Pansiyon-Otomasyon-Uygulaması
+# Pansiyon Otomasyon Uygulaması
 .NET framework form application
 Ayçiçeği Pansiyon adında bir pansiyonun otomasyon uygulamasıdır.
 
