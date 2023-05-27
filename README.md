@@ -40,3 +40,9 @@ ile giriş yapabilirsiniz.
 
 
 ![hakkımızda](https://user-images.githubusercontent.com/77030797/157953019-7c8214bc-8bfe-483f-8622-b6b8853f296d.jpg)
+
+## Developed By
+***Barış Beytur***
+
+## Social
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barisbeytur/)
